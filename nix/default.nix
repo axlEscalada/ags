@@ -70,7 +70,7 @@ in
         gtk3
         libpulseaudio
         upower
-        gnome.gnome-bluetooth
+        gnome-bluetooth
         gtk-layer-shell
         glib-networking
         networkmanager
